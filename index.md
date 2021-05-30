@@ -1,6 +1,6 @@
 ## Sulli is jinri
 
-You can use the [雷道涵的QQ空间](https://user.qzone.qq.com/1033919296/infocenter) to maintain and preview the content for your website in Markdown files.
+You can use the [百度](https://www.baidu.com) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
